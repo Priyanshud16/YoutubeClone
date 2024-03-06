@@ -16,6 +16,7 @@ const [sidebar,setSidebar]=useState(true)
         <Route path='/' element={<Home sidebar={sidebar}/>}/>
         <Route path='/video/:categoryId/:videoId' element={<Vedio/>}/>
       </Routes>
+      .
     </div>
   )
 }
