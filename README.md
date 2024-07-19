@@ -25,29 +25,4 @@ Navigate into the project directory.
 Install dependencies using npm install.
 Start the development server with npm start.
 Open your browser and visit https://youtube-clone-seven-mu.vercel.app/ to view the YouTube clone.
-Project Structure
-css
-Copy code
-youtube-clone/
-│
-├── public/
-│   ├── index.html
-│   └── ...
-│
-├── src/
-│   ├── components/
-│   │   ├── Header.js
-│   │   ├── VideoPlayer.js
-│   │   ├── Sidebar.js
-│   │   └── ...
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-│
-├── README.md
-└── ...
-Contributing
-Contributions are welcome! If you have any suggestions, improvements, or feature requests, feel free to open an issue or create a pull request.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
